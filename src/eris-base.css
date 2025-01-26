@@ -2,8 +2,8 @@
 @import url("https://rockesv.github.io/Eris/src/eris-logos-pfps.css");
 
 :root, .theme-dark, .theme-light {
-    --font-primary: 'Whitney';
-    --font-display: 'Whitney';
+    --font-primary: 'Merriweather', 'Whitney', sans-serif;
+    --font-primary: 'Merriweather', 'Whitney', sans-serif;
     --brand-experiment: hsl(227, 58%, 65%);
     --brand-500: var(--brand-experiment);
     --brand-experiment-560: hsl(227, 58%, 67.5%);
