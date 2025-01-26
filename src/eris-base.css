@@ -1,9 +1,14 @@
 @import url("https://rockesv.github.io/Eris/src/eris-whitney-font.css");
 @import url("https://rockesv.github.io/Eris/src/eris-logos-pfps.css");
 
+@font-face {
+    font-family: 'Discord GG Sans';
+    src: url('../assets/fonts/gg\ sans\ Regular.ttf') format('truetype');
+  }
+
 :root, .theme-dark, .theme-light {
-    --font-primary: 'Merriweather', 'Whitney', sans-serif;
-    --font-primary: 'Merriweather', 'Whitney', sans-serif;
+    --font-primary: 'Discord GG Sans', 'Whitney', sans-serif;
+    --font-display: 'Discord GG Sans', 'Whitney', sans-serif;
     --brand-experiment: hsl(227, 58%, 65%);
     --brand-500: var(--brand-experiment);
     --brand-experiment-560: hsl(227, 58%, 67.5%);
