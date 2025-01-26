@@ -7,8 +7,8 @@
   }
 
 :root, .theme-dark, .theme-light {
-    --font-primary: 'Discord GG Sans', 'Whitney', sans-serif;
-    --font-display: 'Discord GG Sans', 'Whitney', sans-serif;
+    --font-primary: 'Whitney', 'Discord GG Sans', sans-serif;
+    --font-display: 'Whitney', 'Discord GG Sans', sans-serif;
     --brand-experiment: hsl(227, 58%, 65%);
     --brand-500: var(--brand-experiment);
     --brand-experiment-560: hsl(227, 58%, 67.5%);
